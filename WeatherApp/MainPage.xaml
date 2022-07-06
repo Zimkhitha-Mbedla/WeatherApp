@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WeatherApp.MainPage">
+
+    <StackLayout>
+
+        <Label Text="{Binding main.temp}"/>
+        <Label Text="{Binding main.pressure}"/>
+        <Label Text="{Binding main.humidity}"/>
+        <Label Text="{Binding wind.speed}"/>
+
+
+
+        <Button x:Name="GetWeatherButton" Text="Weather Forecast" Clicked="GetWeatherButton_Clicked" VerticalOptions="EndAndExpand"/>
+
+    </StackLayout>
+
+</ContentPage>

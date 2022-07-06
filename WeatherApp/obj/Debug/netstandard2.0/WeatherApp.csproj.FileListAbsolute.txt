@@ -1,0 +1,16 @@
+C:\Users\Zimkhitha Mbedla\Source\Repos\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.deps.json
+C:\Users\Zimkhitha Mbedla\Source\Repos\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.dll
+C:\Users\Zimkhitha Mbedla\Source\Repos\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.pdb
+C:\Users\Zimkhitha Mbedla\Source\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\Zimkhitha Mbedla\Source\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zimkhitha Mbedla\Source\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Zimkhitha Mbedla\Source\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Zimkhitha Mbedla\Source\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\Weather.Xml.xaml.g.cs
+C:\Users\Zimkhitha Mbedla\Source\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\Zimkhitha Mbedla\Source\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfo.cs
+C:\Users\Zimkhitha Mbedla\Source\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Zimkhitha Mbedla\Source\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Zimkhitha Mbedla\Source\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.dll
+C:\Users\Zimkhitha Mbedla\Source\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\refint\WeatherApp.dll
+C:\Users\Zimkhitha Mbedla\Source\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.pdb
+C:\Users\Zimkhitha Mbedla\Source\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\ref\WeatherApp.dll
